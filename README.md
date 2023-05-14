@@ -1,3 +1,3 @@
 # t-rex-game-js
-dino n-rex running
+dino t-rex running
 бегущий динозаврик преодолевает преграды в виде кактусов
